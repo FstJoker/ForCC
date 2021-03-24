@@ -5,7 +5,7 @@ public:
         if (n < 3) {
             return false;
         }
-        //����ջ
+        //单调栈 stk来保存下标
         vector<int> stk = { 0 };
         vector<int> leftMin = { nums[0] };
         for (int i = 0; i < n; i++) {
