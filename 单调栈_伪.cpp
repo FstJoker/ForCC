@@ -6,7 +6,7 @@ int main() {
 	cin >> n;
 	while (n--) {
 		int t;
-		scanf("%d", &t);
+		scanf("%d", &t);//缓冲区
 		while (top && t <= stk[top]) top--;
 		if (!top) cout << -1 << " ";
 		else cout << stk[top] << " ";
