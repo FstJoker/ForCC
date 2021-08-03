@@ -1,5 +1,5 @@
 # ForCC
 # 37/300 E_12/195 M_21/75 H_4/45
-Leetcode 中的 300 个项目 
-两百天三百题换云主机 -> 10月15日 
-65% 简单 25% Mid_75 15% Hard_45
+Leetcode 300 Project
+In 200 days -> 10_15 
+65% Easy 25% Mid_75 15% Hard_45
